@@ -21,8 +21,9 @@
 				"dbaeumer.vscode-eslint",
 				"GitHub.vscode-pull-request-github",
 				"EditorConfig.EditorConfig",
-				"Orta.vscode-jest",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"ms-azuretools.vscode-docker",
+				"donjayamanne.githistory"
 			]
 		}
 	},
